@@ -102,8 +102,8 @@ Data Structures & Algorithms • Object-Oriented Programming • Model Deploymen
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsaanchugtai&show_icons=true&theme=default&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaanchugtai&layout=compact&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ahsaanchugtai&show_icons=true&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahsaanchugtai&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
