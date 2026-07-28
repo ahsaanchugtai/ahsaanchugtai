@@ -21,24 +21,56 @@
 
 ### 🧑‍💻 About Me
 
-<p align="center">
-  <img src="./assets/terminal_info_card.svg" alt="System Info" width="600" />
-</p>
+- 🎓 BS Computer Science student at **Minhaj University Lahore** (GPA 3.38/4)
+- 🔬 Hands-on experience in **Machine Learning, Data Science, and Systems Programming**
+- 🧠 Currently building projects in **NLP, Computer Vision, and Predictive Modeling**
+- 🐧 Comfortable working with **Linux internals and low-level systems programming in C**
+- 💼 Completed internships in **AI/ML Development** and **Data Science**
+- 📍 Based in Lahore, Pakistan
+- 📫 Reach me at **ahsaaanchugtai@gmail.com**
 
 ---
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <img src="./assets/project_cards.svg" alt="Featured Projects" width="700" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <a href="https://github.com/ahsaanchugtai/-News_Topic_Classifier_Using_BERT">News Topic Classifier (BERT)</a> ·
-  <a href="https://github.com/ahsaanchugtai/Customer_churn_prediction">Customer Churn Prediction</a> ·
-  <a href="https://github.com/ahsaanchugtai/MiniShell_OS_Linux_Based">MiniShellOS</a> ·
-  <a href="https://github.com/ahsaanchugtai/sign_detection">Sign Language Detection</a>
-</p>
+**📰 [News Topic Classifier Using BERT](https://github.com/ahsaanchugtai/-News_Topic_Classifier_Using_BERT)**
+News classification system built on the BERT transformer model, with a full NLP preprocessing pipeline and evaluation using accuracy, precision, recall, and F1-score.
+
+`Python` `BERT` `Transformers` `NLP`
+
+</td>
+<td width="50%">
+
+**📊 [Customer Churn Detection System](https://github.com/ahsaanchugtai/Customer_churn_prediction)**
+ML model to predict customer churn on the BankChurners dataset, comparing Logistic Regression, Random Forest, and XGBoost using ROC-AUC and confusion matrix analysis.
+
+`Python` `Scikit-learn` `Pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💻 [MiniShellOS: A Linux Terminal Engine](https://github.com/ahsaanchugtai/MiniShell_OS_Linux_Based)**
+A custom Linux shell built in C, implementing command parsing, process creation (`fork()`), execution (`execvp()`), synchronization (`wait()`), background processes, and signal handling.
+
+`C` `Linux` `Systems Programming`
+
+</td>
+<td width="50%">
+
+**🤟 [Real-Time Sign Language Detection](https://github.com/ahsaanchugtai/sign_detection)**
+Real-time sign language recognition system using CNNs, with webcam-based hand gesture detection via OpenCV for improved accessibility.
+
+`Python` `TensorFlow` `OpenCV` `CNN`
+
+</td>
+</tr>
+</table>
 
 ---
 
